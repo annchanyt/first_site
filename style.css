@@ -1,0 +1,40 @@
+.navbar{
+	opacity: 0.5;
+}
+
+.jumbotron{
+	height: 100%;
+	margin-bottom: 0px;
+}
+
+#annchan{
+	background-color: #3ea5ce;
+}
+
+#eggchan{
+	background-color: orange;
+}
+
+#title{
+	color: white;
+	font-size: 200px;
+	font-family: helvetica;
+	margin-top: 200px;
+	}
+
+#subtitle{
+	color: white;
+	font-family: helvetica;
+	}
+
+ li{
+	color: white;
+	list-style: none;
+	font-weight: 150;
+	font-size: 15px;
+	}
+
+ li a{
+	color: white;
+	text-decoration: none;
+			}
